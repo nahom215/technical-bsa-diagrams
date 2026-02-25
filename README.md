@@ -1,6 +1,13 @@
 # Technical Business Analyst Portfolio
-Project repository for system modeling and technical requirements.
+Welcome! This repository contains technical documentation and system models for healthcare workstreams.
 
-## 📊 System Models
-- [Claims Processing Sequence Diagram](claims-sequence-diagram.md)
-*Modeled using Mermaid.js to show system-to-system interactions between Providers, Eligibility, and Payment systems.*
+## 📁 Featured Models
+* **[Claims Processing Sequence Diagram](claims-flow.md)**
+  * A UML model showing how the Provider Portal interacts with Eligibility APIs and backend Databases.
+* **[User Story Samples](requirements.md)**
+  * Technical requirements and acceptance criteria for IBX-style portals.
+
+## 🛠 Tools Used
+* **Mermaid.js** (for Sequence & Activity Diagrams)
+* **Markdown** (for Technical Documentation)
+* **SQL** (for Data Mapping)
